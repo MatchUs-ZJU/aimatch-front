@@ -10,7 +10,7 @@ export const Features = () => {
       <Container>
         <SectionTitle
           title="为什么选择 "
-          highlight="AI红娘"
+          highlight="AI红娘麦麦"
           subtitle="融合先进AI技术与专业婚恋服务理念，为你打造前所未有的智能匹配体验"
         />
 

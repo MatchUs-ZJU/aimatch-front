@@ -14,7 +14,7 @@ export const Footer = () => {
                 <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary-400 to-secondary-500 flex items-center justify-center">
                   <Heart className="w-5 h-5 text-white" fill="white" />
                 </div>
-                <span className="text-xl font-bold gradient-text">AI红娘</span>
+                <span className="text-xl font-bold gradient-text">AI红娘麦麦</span>
               </div>
               <p className="text-gray-500 text-sm leading-relaxed max-w-sm">
                 AI红娘是新一代智能婚恋匹配平台，融合大模型技术与专业服务，
@@ -55,7 +55,7 @@ export const Footer = () => {
           <div className="border-t border-gray-200 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <p className="text-sm text-gray-400">
-                © 2026 AI红娘. All rights reserved.
+                © 2026 AI红娘麦麦. All rights reserved.
               </p>
               <div className="text-sm text-gray-400">
                 <span>ICP备案号：</span>

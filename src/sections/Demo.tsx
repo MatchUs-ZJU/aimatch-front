@@ -14,7 +14,7 @@ export const Demo = () => {
             </h2>
             <p className="text-gray-600 mb-8 leading-relaxed">
               不用再苦恼如何填写复杂的择偶标准表格。只需像和朋友聊天一样，
-              用自然的语言描述你心中的理想对象，AI红娘就能精准理解你的需求。
+              用自然的语言描述你心中的理想对象，AI红娘麦麦就能精准理解你的需求。
             </p>
             <div className="space-y-4">
               {DEMO_FEATURES.map((item, index) => (

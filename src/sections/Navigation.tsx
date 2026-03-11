@@ -16,7 +16,7 @@ export const Navigation = () => {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary-400 to-secondary-500 flex items-center justify-center">
               <Heart className="w-5 h-5 text-white" fill="white" />
             </div>
-            <span className="text-xl font-bold gradient-text">AI红娘</span>
+            <span className="text-xl font-bold gradient-text">AI红娘麦麦</span>
           </div>
 
           {/* Desktop Nav */}

@@ -25,7 +25,7 @@ export const Hero = () => {
           {/* Main heading */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
             <span className="text-gray-900">你的专属</span>
-            <span className="gradient-text"> AI红娘</span>
+            <span className="gradient-text"> AI红娘麦麦</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-4 max-w-3xl mx-auto">
             基于大模型语义理解，懂你所想

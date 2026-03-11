@@ -17,13 +17,13 @@ export const CTA = () => {
               开启你的AI匹配之旅
             </h2>
             <p className="text-white/90 text-lg mb-8 max-w-2xl mx-auto">
-              内测期间免费领取3个优质推荐名额，让AI红娘为你寻找那个TA
+              内测期间免费领取3个优质推荐名额，让AI红娘麦麦为你寻找那个TA
             </p>
             <Button variant="white" size="lg" className="shadow-lg">
               立即免费匹配
             </Button>
             <p className="text-white/70 text-sm mt-4">
-              已有超过10,000+用户通过AI红娘找到心仪对象
+              已有超过10,000+用户通过AI红娘麦麦找到心仪对象
             </p>
           </div>
         </div>
