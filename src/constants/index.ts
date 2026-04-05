@@ -119,4 +119,4 @@ export const FOOTER_LINKS = {
 };
 
 // ICP 备案号（请替换为实际备案号）
-export const ICP_NUMBER = '备案号';
+export const ICP_NUMBER = '鲁ICP备2023027794号-8';
